@@ -216,3 +216,76 @@ This section applies the concepts from the previous sections to complete Azure D
 | 6.10 | [Enterprise Azure DevOps Project](./6.%20Azure%20DevOps%20Real-World%20Projects/6.10%20Enterprise%20Azure%20DevOps%20Project/) | Build an end-to-end enterprise DevOps solution combining CI/CD, security, IaC, deployment, and monitoring. |
 
 ---
+
+## 🛠️ Prerequisites
+
+- Basic understanding of cloud computing concepts
+- Basic understanding of Microsoft Azure and Azure resources
+- Basic understanding of networking concepts such as VNet, Subnets, NSGs, and IP addressing
+- Familiarity with Linux commands and terminal usage
+- Basic understanding of virtual machines and SSH/RDP access
+- Basic Git and GitHub knowledge
+- Basic understanding of CI/CD concepts is helpful
+- Basic understanding of YAML and JSON is helpful for Azure Pipelines and infrastructure automation
+- An active Microsoft Azure account with permission to create and manage Azure resources
+- A GitHub account for repository access and GitHub integrations
+
+Before diving in, make sure you have:
+
+| **Requirement** | **Details** |
+| ---------------- | ----------- |
+| Azure Account | Azure account with an active subscription |
+| Azure DevOps | Access to Azure DevOps and permission to create or manage projects |
+| Azure DevOps Organization | An Azure DevOps organization for creating projects, repositories, pipelines, and other resources |
+| Azure Portal | Access to [Azure Portal](https://portal.azure.com/) |
+| Azure CLI | Installed and configured (`az login`) |
+| Azure DevOps CLI | Azure DevOps extension installed and configured when CLI-based labs require it |
+| Git | Installed for cloning and managing repositories |
+| GitHub Account | Required for GitHub integration, cloning, and contributing to the repository |
+| VS Code | Recommended for editing YAML, JSON, Bicep, Markdown, and configuration files |
+| Linux / Terminal | Comfortable with basic terminal commands |
+| YAML | Basic understanding recommended for Azure Pipelines |
+| Azure Resources | Permission to create resources required for hands-on CI/CD and deployment labs |
+
+---
+
+# 🚦 Getting Started
+
+```bash
+# Clone this repository
+git clone https://github.com/Irfaanpk/Azure-DevOps-Zero-to-Hero.git
+
+# Navigate into the project
+cd azure-devops-zero-to-hero
+
+# Start with the first section
+cd "1. Azure DevOps Processes and Communications"
+```
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+If you have suggestions for improvements, new examples, better explanations, additional Azure DevOps scenarios, or find any issues, feel free to:
+
+- Open an issue
+- Submit a pull request
+- Improve existing documentation
+- Add useful Azure DevOps examples
+- Add YAML pipeline examples
+- Add architecture diagrams
+- Add hands-on labs
+- Improve existing explanations
+
+Please keep contributions beginner-friendly, technically accurate, practical, and consistent with the structure of this repository.
+
+---
+
+<div align="center">
+
+**Happy Cloud Building! ☁️**
+
+*If this repo helped you, please consider giving it a ⭐*
+
+</div>
