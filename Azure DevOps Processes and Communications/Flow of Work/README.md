@@ -1,4 +1,4 @@
-# 1.1 Flow of Work
+# Flow of Work
 
 ## 📖 Introduction
 
